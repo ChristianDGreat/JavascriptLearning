@@ -1,1 +1,3 @@
-window.alert("christian");
+var myName = "Christian";
+
+print(myName);
